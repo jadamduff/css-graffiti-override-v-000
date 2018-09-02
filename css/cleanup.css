@@ -5,3 +5,7 @@
 #wall .parent + div {
   display: none;
 }
+
+#wall .parent + div + div{
+  display: none;
+}
